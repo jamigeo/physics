@@ -59,7 +59,7 @@ public class Main {
     // Methode zum Ausführen des Python-Skripts
     public static void runPythonScript() {
         try {
-            ProcessBuilder pb = new ProcessBuilder("python", "physics/scripts/read_result.py");
+            ProcessBuilder pb = new ProcessBuilder("python", "scripts/read_result.py");
             pb.redirectErrorStream(true);
             Process p = pb.start();
             
