@@ -1,0 +1,4 @@
+Mass1: 5.972E24
+Mass2: 7.348E22
+Distance: 3.844E8
+Gravitational Force: 1.982110729079252E20
